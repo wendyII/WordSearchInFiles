@@ -1,0 +1,9 @@
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\bin\Debug\WordSearchInFiles.exe.config
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\bin\Debug\WordSearchInFiles.exe
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\bin\Debug\WordSearchInFiles.pdb
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\obj\Debug\WordSearchInFiles.csprojResolveAssemblyReference.cache
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\obj\Debug\WordSearchInFiles.Form1.resources
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\obj\Debug\WordSearchInFiles.Properties.Resources.resources
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\obj\Debug\WordSearchInFiles.csproj.GenerateResource.Cache
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\obj\Debug\WordSearchInFiles.exe
+C:\WindowsFormApp\WordSearchInFiles\WordSearchInFiles\obj\Debug\WordSearchInFiles.pdb
